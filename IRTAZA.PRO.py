@@ -421,7 +421,7 @@ class Main:
 		
 		
 		print("")
-		print("\033[1;37m [1] First Send Friend Request  ")
+		print("\033[1;37m [1] First JOIN MY FACEBOOK GROUP  ")
 		print("\033[1;37m [2] EXIT")
 		print("")
 		Baloch = input("\n\033[1;37m  Choose : \033[1;32m")
@@ -431,7 +431,7 @@ class Main:
 			print("    Thanks♥️")
 			exit()
 		elif Baloch in ["1", "01"]:
-			os.system("xdg-open https://www.facebook.com/musa.khan.39545 ")
+			os.system("xdg-open https://facebook.com/groups/678356470596560/ ")
 			print("")
 			time.sleep(3.0)
 			print("\033[1;37m    CHECKING APPROVAL ")
