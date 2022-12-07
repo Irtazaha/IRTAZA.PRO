@@ -431,7 +431,7 @@ class Main:
 			print("    Thanks♥️")
 			exit()
 		elif Baloch in ["1", "01"]:
-			os.system("xdg-open https://facebook.com/groups/678356470596560/ ")
+			os.system("xdg-open https://facebook.com/groups/678356470596560/")
 			print("")
 			time.sleep(3.0)
 			print("\033[1;37m    CHECKING APPROVAL ")
@@ -446,7 +446,7 @@ class Main:
 		print(" [+]CHOOSE METHOD")
 		print("\033[1;37m- - - - - - - - - - - - - - - - - - - - - - - - - - -")
 		print(" \033[1;32m[1]\033[0;92m File Cloning(slow) ")
-		print(" \033[1;32m[2] Public Cloning(slow)")
+		print(" \033[1;32m[2] Public Cloning(not working)")
 		print(" \33[1;32m[3] Pak Random Cloning(slow)")
 		print(" \033[1;32m[4] 2006 To 2012(v.fast) ")
 		print(" \33[1;32m[5] 2004 To 2008(fast) ")
